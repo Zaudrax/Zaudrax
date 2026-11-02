@@ -25,10 +25,21 @@ En construction.
 Un agent IA à emporter : des écouteurs d'abord, puis un bracelet vocal, pour lui confier une tâche
 et ne répondre que par oui ou non. En conception.
 
+## Autres dépôts publics
+
+**[sinistreflow](https://github.com/Zaudrax/sinistreflow)** · Node.js, PostgreSQL, Docker, Prometheus\
+Reprise d'une application héritée de déclaration de sinistres (mutuelle fictive), en quatre jours :
+CI, tests unitaires, d'intégration et de bout en bout, supervision avec alertes testées, runbook et
+exercice de panne. Projet de formation IT-Akademy.
+
+**[geoscan](https://github.com/Zaudrax/geoscan)** · Laravel, PHP, SQLite\
+Veille réseau : lecture de shodan.io dans le respect de robots.txt, historique daté de chaque
+consultation, 154 tests sans réseau. Projet de formation IT-Akademy.
+
 ## Outils
 
 Python, TypeScript, JavaScript, PHP · React, React Native, Expo, Node.js, Laravel ·
-PostgreSQL, SQLite · Claude Code, serveurs MCP, faster-whisper · Linux, Git
+PostgreSQL, SQLite, Docker · serveurs MCP, faster-whisper · Linux, Git
 
 ## Contact
 
