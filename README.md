@@ -14,7 +14,7 @@ les jours. Code public.
 
 **Camaleo** · Expo, React Native, TypeScript, Node.js\
 Une application iOS et Android qui estime le physique à partir d'une photo et suit la progression
-dans le temps. Finalisée côté boutiques.
+dans le temps. En test sur Android et iOS avant sa sortie.
 
 **Axiome** · React, Node.js, PostgreSQL\
 Un ERP et CRM qu'on construit en décrivant son besoin. L'IA rédige une spécification, un moteur
