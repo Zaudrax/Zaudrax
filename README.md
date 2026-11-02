@@ -12,11 +12,11 @@ souvient, délègue des tâches à des agents spécialisés et demande mon accor
 critique : un hook juge chaque commande avant qu'elle parte. Je m'en sers tous
 les jours. Code public.
 
-**Camaleo** · Expo, React Native, TypeScript, Node.js\
+**[Camaleo](https://github.com/Zaudrax/Camaleo)** · Expo, React Native, TypeScript, Node.js\
 Une application iOS et Android qui estime le physique à partir d'une photo et suit la progression
 dans le temps. En test sur Android et iOS avant sa sortie.
 
-**Axiome** · React, Node.js, PostgreSQL\
+**[Axiome](https://github.com/Zaudrax/Axiome-ERP)** · React, Node.js, PostgreSQL\
 Un ERP et CRM qu'on construit en décrivant son besoin. L'IA rédige une spécification, un moteur
 déterministe en tire la base, l'API et les écrans : l'IA n'écrit jamais le code qui tourne.
 En construction.
