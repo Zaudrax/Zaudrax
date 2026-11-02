@@ -8,8 +8,8 @@ moi-même. Je cherche un poste de développeur, de préférence autour de l'IA.
 
 **[Astrel](https://github.com/Zaudrax/Astrel)** · Python, Claude Code, MCP, JavaScript\
 Un assistant vocal qui tourne sur mon ordinateur et réfléchit avec Claude Code. Il écoute, se
-souvient, confie le code à une équipe d'agents (codeur, testeur, relecteur) et demande mon accord
-avant toute action critique : un hook juge chaque commande avant qu'elle parte. Je m'en sers tous
+souvient, délègue des tâches à des agents spécialisés et demande mon accord avant toute action
+critique : un hook juge chaque commande avant qu'elle parte. Je m'en sers tous
 les jours. Code public.
 
 **Camaleo** · Expo, React Native, TypeScript, Node.js\
@@ -41,4 +41,4 @@ E-mail : info@baptisterenaud.com
 **In English.** Full-stack developer on a work-study contract in Lyon, France (until September
 2027). I build web and mobile apps, and AI agents I use myself. Looking for a developer role,
 ideally around AI. Main public project: [Astrel](https://github.com/Zaudrax/Astrel), a local voice
-assistant built on Claude Code, with a hook-based safety guard and a team of coding agents.
+assistant built on Claude Code, with a hook-based safety guard and specialised agents.
